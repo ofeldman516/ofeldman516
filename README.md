@@ -9,6 +9,7 @@ I'm a full-stack web developer based in Berlin, Germany.
 🤓 Check out my boot camp project, the MigraMinds mobile app, and my React weather app solo project here: 
   
     • https://migramind-3327e7056e72.herokuapp.com/
+    
   
     • https://react-weather-app-92be4.web.app
 
