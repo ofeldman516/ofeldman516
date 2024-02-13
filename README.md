@@ -4,7 +4,7 @@ I'm a full-stack web developer based in Berlin, Germany.
 
 📚 I graduated from the Le Wagon Berlin 9-week intensive boot camp in September 2023.
 
-🌱 I’m excited to continue developing my skills in Ruby, Rails, HTML, CSS, Bootstrap, and JavaScript.
+🌱 I’m excited to continue developing my skills in React, Ruby, Rails, HTML, CSS, Bootstrap, JavaScript and TypeScript.
 
 🤓 Check out my boot camp project, the MigraMinds mobile app, here: https://migramind-3327e7056e72.herokuapp.com/
 
