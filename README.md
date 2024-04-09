@@ -6,14 +6,7 @@ I'm a full-stack web developer based in Berlin, Germany.
 
 🌱 I’m excited to continue developing my skills in React, Ruby, Rails, HTML, CSS, Bootstrap, JavaScript and TypeScript.
 
-🤓 Check out my boot camp project, the MigraMinds mobile app, and my React weather app and React to-do list solo projects here: 
-  
-   • https://migramind-3327e7056e72.herokuapp.com/ 
-  
-   • https://react-weather-app-92be4.web.app
-   
-   • https://todo-list-98df5.web.app/
-
+🤓 Check out my boot camp project, the MigraMinds mobile app, and my React weather app and React to-do list solo projects here: https://troopl.com/oliviafeldman
 
 
 <strong>Languages and Tools:</stong>
