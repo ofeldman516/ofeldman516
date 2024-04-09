@@ -6,7 +6,7 @@ I'm a full-stack web developer based in Berlin, Germany.
 
 🌱 I’m excited to continue developing my skills in React, Ruby, Rails, HTML, CSS, Bootstrap, JavaScript and TypeScript.
 
-🤓 Check out my boot camp project, the MigraMinds mobile app, and my React weather app and Reach to-do list solo projects here: 
+🤓 Check out my boot camp project, the MigraMinds mobile app, and my React weather app and React to-do list solo projects here: 
   
    • https://migramind-3327e7056e72.herokuapp.com/ 
   
